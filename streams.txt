@@ -1,0 +1,6 @@
+streamGroup1
+streamName streamLink optionalStreamQuality
+streamName streamLink optionalStreamQuality
+
+streamGroup2
+streamName streamLink optionalStreamQuality
